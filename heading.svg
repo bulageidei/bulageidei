@@ -10,7 +10,9 @@
 
             @keyframes mymove {
                 0% {color: red; }
-                50% {color: yellow;}
+                25% {color: blue;}
+                25% {color: yellow;}
+                75% {color: blue;}
                 100% {color: red;}
             }
             </style>
