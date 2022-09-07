@@ -23,7 +23,7 @@
 	    .bg {
 		    width: 800px;
 		    height: 100px;
-		background-color: #FFF5E4;
+		background-color: white;
 	     }
 
             @keyframes headingAnimate {
