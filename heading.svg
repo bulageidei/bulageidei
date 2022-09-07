@@ -13,12 +13,11 @@
                 animation-fill-mode: both;
                 animation-timing-function: linear;
                 animation-iteration-count: infinite;
-                font-size: 4em;
             }
 	    .sep {
 		position: absolute;
 		top: 3.2em;
-		left: 5em;
+		text-align: center;
 	    }  
 
             @keyframes headingAnimate {
