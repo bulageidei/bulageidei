@@ -11,17 +11,17 @@
                 animation-fill-mode: both;
                 animation-timing-function: linear;
                 animation-iteration-count: infinite;
-                font-size: 2em;
+                font-size: 4em;
             }
 
             @keyframes headingAnimate {
-                0% {color: #cef9f2; font-size: 2em;}
-                50% {color: #AFC1D6; font-size: 2.1em;}
-                100% {color: #cef9f2; font-size: 2.em;}
+                0% {color: #cef9f2; font-size: 4em;}
+                50% {color: #AFC1D6; font-size: 4.1em;}
+                100% {color: #cef9f2; font-size: 4.em;}
             }
             </style>
             <h1>Hello fellow visitor!</h1>
-            <h3>Bulag here.</h3>
+            Bulag here.
         </div>
     </foreignObject>
 </svg>
