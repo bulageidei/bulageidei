@@ -6,6 +6,7 @@
     <img src="heading.svg" width="400" height="400" alt="css-in-readme">
 </div>
 
+<hr>
 <!-- <h1 align = "center"> Hello fellow visitor! Bulag here 👋 </h1> -->
 
 - 🔭 I’m currently working on ...finding an **ENGINEERING RELATED** intership
