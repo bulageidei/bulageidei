@@ -20,6 +20,9 @@
 		width: 100px;
  		left: 350px;
 	    }  
+	    .bg {
+		    background-color = beige;
+	     }
 
             @keyframes headingAnimate {
                 0% {color: #cef9f2; font-size: 4em;}
@@ -27,9 +30,11 @@
                 100% {color: #cef9f2; font-size: 4.em;}
             }
             </style>
+		<div class = "bg">
             <h1>Hello visitor!</h1>
 		<div>
             		<p>Bulag here.</p>
+		</div>
 		</div>
         </div>
     </foreignObject>
