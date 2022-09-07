@@ -1,4 +1,4 @@
-### Hello fellow visitor! Bulag here 👋
+<h1 align = "center"> Hello fellow visitor! Bulag here 👋 </h1>
 
 <!--
 **bulageidei/bulageidei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
