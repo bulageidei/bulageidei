@@ -3,7 +3,7 @@
 -->
 
 <div align="center">
-    <img src="heading.svg" width="400" height="400" alt="css-in-readme">
+    <img src="heading.svg" width="auto" height="auto" alt="greetings">
 </div>
 
 <hr>
