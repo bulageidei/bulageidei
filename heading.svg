@@ -12,7 +12,7 @@
                 animation-timing-function: linear;
                 animation-iteration-count: infinite;
                 font-size: 1em;
-                margin-left = auto;
+                margin = 0 auto 0 auto;
             }
 
             @keyframes headingAnimate {
