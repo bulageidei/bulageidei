@@ -9,8 +9,9 @@
 <hr>
 
 <h3> 🥸 Who? </h3>
+
 - 😱 A fellow person with an interest in programming
--  🙊 Bearer of change
+- 🙊 Bearer of change
 
 - 🔭 I’m currently working on ...finding an **ENGINEERING RELATED** intership
 - 🌱 I’m currently learning ...
