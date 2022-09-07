@@ -9,11 +9,11 @@
             }
 
             @keyframes mymove {
-                0% {color: red; }
-                25% {color: blue;}
-                25% {color: yellow;}
-                75% {color: blue;}
-                100% {color: red;}
+                0% {color: red; size: 1em}
+                25% {color: blue; size: 2em}
+                25% {color: yellow; size: 4em}
+                75% {color: blue; size: 2em}
+                100% {color: red; size: 1em}
             }
             </style>
             <h1>HELLO WORLD!</h1>
