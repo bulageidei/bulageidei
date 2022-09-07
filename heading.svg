@@ -14,7 +14,6 @@
                 	animation-fill-mode: both;
                 	animation-timing-function: linear;
                 	animation-iteration-count: infinite;
-			/*background-color: #EC7272;*/
 		}
 		p {
 			position: absolute;
@@ -30,19 +29,24 @@
 			margin = 0;
 			background-color: #EC7272;
 		}
-
+		div {
+			margin: 0;
+			padding: 0;
+		}
+		
 		@keyframes headingAnimate {
                 	0% {color: #cef9f2; font-size: 4em;}
                 	50% {color: #AFC1D6; font-size: 4.1em;}
                 	100% {color: #cef9f2; font-size: 4.em;}
             	}
-            	</style>
-		<div class = "bg">
-            		<h1>Hello visitor!</h1>
-			<div>
-				<p>Bulag here.</p>
-			</div>
+	</style>
+	
+	<div class = "bg">
+            	<h1>Hello visitor!</h1>
+		<div>
+			<p>Bulag here.</p>
 		</div>
-        </div>
-    </foreignObject>
+	</div>
+</div>
+</foreignObject>
 </svg>
