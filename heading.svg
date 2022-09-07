@@ -16,7 +16,7 @@
 		}
 		p {
 			position: absolute;
-			top: 1.5em;
+			top: 4.5em;
 			width: 200px;
  			left: 300px;
 			margin-left = auto;
