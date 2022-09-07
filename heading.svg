@@ -21,7 +21,7 @@
  		left: 350px;
 	    }  
 	    .bg {
-		color = #FF5E4;
+		background-color: #FF5E4;
 	     }
 
             @keyframes headingAnimate {
