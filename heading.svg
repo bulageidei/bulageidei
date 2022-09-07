@@ -11,7 +11,7 @@
                 animation-fill-mode: both;
                 animation-timing-function: linear;
                 animation-iteration-count: infinite;
-                font-size: 1em;
+                font-size: 2em;
             }
 
             @keyframes headingAnimate {
