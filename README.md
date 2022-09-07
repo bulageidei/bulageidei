@@ -2,7 +2,7 @@
 **bulageidei/bulageidei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align = "center"> Hello fellow visitor! Bulag here 👋 </h1>
+<h1 align = "center" background-color = "blue"> Hello fellow visitor! Bulag here 👋 </h1>
 
 - 🔭 I’m currently working on ...finding an **ENGINEERING RELATED** intership
 - 🌱 I’m currently learning ...
