@@ -16,10 +16,9 @@
             }
 	    p {
 		position: relative;
-		//top: 3.2em;
-		//width: 100px;
- 		//left: 350px;
-		    text-align: center;
+		top: 3.2em;
+		width: 100px;
+ 		left: 350px;
 	    }  
 	    .bg {
 		background-color: #FF5E4;
