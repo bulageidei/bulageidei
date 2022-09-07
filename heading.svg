@@ -4,7 +4,11 @@
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
             h1 {
-                color: red;
+                margin: 0;
+				font-size: 4em;
+		        font-weight: 900;
+				letter-spacing: -.05em;
+				text-align: center;
                 animation-name: headingAnimate;
                 animation-duration: 4s;
                 animation-delay: 0s;
