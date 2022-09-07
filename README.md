@@ -21,7 +21,6 @@
 
 ```
 Current projects:
-
 ```
 
 <h2> 🙈 How/怎么/Cómo? </h2>
