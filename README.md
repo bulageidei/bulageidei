@@ -8,10 +8,11 @@
 
 <hr>
 
-<h3> 🥸 Who? </h3>
-
+<h1> 🥸 Who? </h1>
+<hr>
 - 😱 A fellow person with an interest in programming
 - 🙊 Bearer of change
+
 
 - 🔭 I’m currently working on ...finding an **ENGINEERING RELATED** intership
 - 🌱 I’m currently learning ...
