@@ -17,7 +17,7 @@
             @keyframes headingAnimate {
                 0% {color: red; font-size: 1em;}
                 25% {color: blue; font-size: 2em;}
-                50% {color: yellow; font-size: 4em;}
+                50% {color: yellow; font-size: 3em;}
                 75% {color: blue; font-size: 2em;}
                 100% {color: red; font-size: 1em;}
             }
