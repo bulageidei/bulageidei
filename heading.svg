@@ -5,7 +5,7 @@
             <style>
             h1 {
                 color: red;
-                animation: mymove 4s ease-in-out infinite ;
+                animation: mymove 4s ease-in-out 1 infinite normal;
                 font-size: 1em;
             }
 
