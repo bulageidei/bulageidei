@@ -1,3 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+  
 <h1 align = "center"> Hello fellow visitor! Bulag here 👋 </h1>
 
 <!--
@@ -14,3 +27,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[Gmail - Work Inquiries](mailto:bobbysun.150801@gmail.com)
 - 😄 Pronouns: ...He/Him/B
 - ⚡ Fun fact: ...
+
+  </div>
