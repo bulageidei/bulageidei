@@ -8,8 +8,7 @@
 
 <hr>
 
-<h1> 🥸 Who? </h1>
-<hr>
+<h2> 🥸 Who? </h2>
 - 😱 A fellow person with an interest in programming
 - 🙊 Bearer of change
 
