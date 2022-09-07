@@ -26,7 +26,7 @@
 	    .bg {
 		    padding = 0;
 		margin = 0;
-		background-color: #FFF5E4;
+		background-color: #EC7272;
 		  // background-color: lightblue;
 	     }
 
