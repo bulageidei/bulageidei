@@ -6,7 +6,7 @@
             h1 {
                 color: red;
                 animation-name: headingAnimate;
-                animation-duration: 2s;
+                animation-duration: 4s;
                 animation-delay: 0s;
                 animation-fill-mode: both;
                 animation-timing-function: ease-in-out;
