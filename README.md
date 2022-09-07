@@ -9,15 +9,22 @@
 <hr>
 
 <h2> 🥸 Who? </h2>
+
 - 😱 A fellow person with an interest in programming
+- 😄 Pronouns: B
 - 🙊 Bearer of change
 
+<h2> 🙈 What? </h2>
 
-- 🔭 I’m currently working on ...finding an **ENGINEERING RELATED** intership
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...C#, python, wed-dev
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[Gmail - Work Inquiries](mailto:bobbysun.150801@gmail.com)
-- 😄 Pronouns: ...He/Him/B
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on finding an **ENGINEERING RELATED** intership
+- 🌱 I’m currently learning stuff
+
+```
+Current projects:
+
+```
+
+<h2> 🙈 How? </h2>
+
+- 💬 Ask me about anything [here](https://google.com)
+- 📫 How to reach me: [Gmail - Work Inquiries](mailto:bobbysun.150801@gmail.com)
