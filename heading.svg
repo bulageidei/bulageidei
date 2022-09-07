@@ -22,7 +22,7 @@
 	    }  
 	    .bg {
 		background-color: #FF5E4;
-		    background-color: lightblue;
+		  // background-color: lightblue;
 	     }
 
             @keyframes headingAnimate {
