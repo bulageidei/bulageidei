@@ -6,7 +6,7 @@
             h1 {
                 color: red;
                 animation: mymove 4s infinite;
-                font-size: 1em
+                font-size: 1em;
             }
 
             @keyframes mymove {
