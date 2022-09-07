@@ -5,10 +5,10 @@
             <style>
             h1 {
                 margin: 0;
-				font-size: 4em;
-		        font-weight: 900;
-				letter-spacing: -.05em;
-				text-align: center;
+		font-size: 4em;
+		font-weight: 900;
+		letter-spacing: -.05em;
+		text-align: center;
                 animation-name: headingAnimate;
                 animation-duration: 4s;
                 animation-delay: 0s;
@@ -17,6 +17,10 @@
                 animation-iteration-count: infinite;
                 font-size: 4em;
             }
+	    .sep {
+		position: absolute;
+		top: 1em;
+	    }  
 
             @keyframes headingAnimate {
                 0% {color: #cef9f2; font-size: 4em;}
@@ -25,7 +29,9 @@
             }
             </style>
             <h1>Hello fellow visitor!</h1>
-            Bulag here.
+		<div class>
+            		<p class = "sep">Bulag here.</p>
+		</div>
         </div>
     </foreignObject>
 </svg>
