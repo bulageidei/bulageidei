@@ -1,45 +1,47 @@
 
-<svg fill="none" viewBox="0 0 auto auto" width="800" height="auto" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-            h1 {
-		padding = 0;
-		margin = 0;
-		font-size: 4em;
-		text-align: center;
-                animation-name: headingAnimate;
-                animation-duration: 4s;
-                animation-delay: 0s;
-                animation-fill-mode: both;
-                animation-timing-function: linear;
-                animation-iteration-count: infinite;
-		background-color: #EC7272;
-            }
-	    p {
-		position: absolute;
-		top: 3.2em;
-		width: 200px;
- 		left: 100px;
-		margin = 0;
-	    }  
-	    .bg {
-		    padding = 0;
-		margin = 0;
-		background-color: #EC7272;
-		  // background-color: lightblue;
-	     }
+<svg fill="none" viewBox="0 0 auto auto" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml">
+	<style>
+		h1 {
+			padding = 0;
+			margin = 0;
+			font-size: 4em;
+			text-align: center;
+               		animation-name: headingAnimate;
+                	animation-duration: 4s;
+                	animation-delay: 0s;
+                	animation-fill-mode: both;
+                	animation-timing-function: linear;
+                	animation-iteration-count: infinite;
+			/*background-color: #EC7272;*/
+		}
+		p {
+			position: absolute;
+			top: 4.5em;
+			width: 200px;
+ 			left: 300px;
+			margin-left = auto;
+	    	}  
+		.bg {
+			width= 800px; 
+			height: 100px;
+			padding = 0;
+			margin = 0;
+			background-color: #EC7272;
+		  	// background-color: lightblue;
+		}
 
-            @keyframes headingAnimate {
-                0% {color: #cef9f2; font-size: 4em;}
-                50% {color: #AFC1D6; font-size: 4.1em;}
-                100% {color: #cef9f2; font-size: 4.em;}
-            }
-            </style>
+		@keyframes headingAnimate {
+                	0% {color: #cef9f2; font-size: 4em;}
+                	50% {color: #AFC1D6; font-size: 4.1em;}
+                	100% {color: #cef9f2; font-size: 4.em;}
+            	}
+            	</style>
 		<div class = "bg">
             		<h1>Hello visitor!</h1>
 			<div>
-            			<p>Bulag here.</p>
+				<p>Bulag here.</p>
 			</div>
 		</div>
         </div>
