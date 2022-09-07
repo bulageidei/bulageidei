@@ -31,10 +31,10 @@
             }
             </style>
 		<div class = "bg">
-            <h1>Hello visitor!</h1>
-		<div>
-            		<p>Bulag here.</p>
-		</div>
+            		<h1>Hello visitor!</h1>
+			<div>
+            			<p>Bulag here.</p>
+			</div>
 		</div>
         </div>
     </foreignObject>
