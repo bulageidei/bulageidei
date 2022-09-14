@@ -21,9 +21,9 @@
 		}
 
 		@keyframes headingAnimate {
-			0% {color: #E9DAC1; font-size: 4em;}
-			50% {color: #FFD8A9; font-size: 4.1em;}
-			100% {color: #E9DAC1; font-size: 4em;}
+			0% {color: #FFF6BF; font-size: 4em;}
+			50% {color: #EEE3CB; font-size: 4.1em;}
+			100% {color: #FFF6BF; font-size: 4em;}
 		}
 	</style>
 	
