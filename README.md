@@ -13,7 +13,7 @@
 - 😱 A fellow person with an interest in programming
 - 😄 Pronouns: B
 - 🙊 Bearer of change
-- *Coconut water connoisseur*
+- 🥥 *Coconut water connoisseur*
 
 <h2> 🙈 What/什么/Qué? </h2>
 
