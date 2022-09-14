@@ -13,6 +13,7 @@
 - 😱 A fellow person with an interest in programming
 - 😄 Pronouns: B
 - 🙊 Bearer of change
+- *Coconut water connoisseur*
 
 <h2> 🙈 What/什么/Qué? </h2>
 
@@ -26,4 +27,6 @@ Current projects:
 <h2> 🙈 How/怎么/Cómo? </h2>
 
 - 💬 Ask me about anything [here](https://google.com)
-- 📫 How to reach me: [Gmail - Work Inquiries](mailto:bobbysun.150801@gmail.com)
+- 📫 How to reach me: [Email - Work Inquiries](mailto:bobbysun.150801@gmail.com)
+
+###### Fun Fact: Realest 21 year old
